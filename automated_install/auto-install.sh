@@ -19,8 +19,8 @@
 # SOFTWARE.
 
 package_name="Fermentrack"
-install_curl_url="install.fermenta.do"
-install_curl_command="curl -L install.fermenta.do | sudo bash"
+install_curl_url="instalar.fermenta.do"
+install_curl_command="curl -L instalar.fermenta.do | sudo bash"
 tools_name="fermentrack-tools"
 tools_repo_url="https://github.com/deedos/fermentrack-tools.git"
 
